@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @petrakmate
+- 👀 I’m currently working as a Controller and using SQL in my job.
+- 🌱 I’m interested in coding overall and just started studying Python. I am only using free online materials and websites at the moment.
+- ✨ My long-term plan is to get better at coding in several languages.
